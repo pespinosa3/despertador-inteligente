@@ -1,3 +1,5 @@
+Pablo Espinosa Pérez
+
 # Sistema de Despertador Inteligente
 
 Este proyecto implementa la lógica interna en Java para una aplicación de despertador inteligente avanzada, desarrollada siguiendo principios de diseño orientado a objetos (POO) y arquitectura limpia.
